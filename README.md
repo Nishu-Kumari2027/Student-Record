@@ -5,11 +5,17 @@ A backend application built using Node.js, Express.js, and MongoDB to manage stu
 🚀 Features
 
 ✔ Add new student records
+
 ✔ View all students or a specific student
+
 ✔ Update existing student details
+
 ✔ Delete student records
+
 ✔ RESTful API architecture
+
 ✔ Secure environment configuration (.env file)
+
 ✔ Clean MVC folder structure
 
 📂 Project Structure
