@@ -66,7 +66,7 @@ Nodemon (optional for development)
 
 🔧 Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/STUDENT-RECORD.git
+git clone  https://github.com/Nishu-Kumari2027/Student-Record
 
 2️⃣ Navigate to the project folder
 cd STUDENT-RECORD
